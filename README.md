@@ -19,7 +19,7 @@ Her oyunun kendi klasörü içinde, ilgili kaynak kodları ve projeye başlamak 
 ## İletişim ve Daha Fazla Bilgi
 
 - LinkedIn: https://www.linkedin.com/in/erkanyaprak/
-- tch.io: https://erkanyaprak.itch.io/
+- itch.io: https://erkanyaprak.itch.io/
 - Kişisel Web Sitesi: https://erkanyaprak.w3spaces.com/index.html
 - YouTube: https://www.youtube.com/channel/UC4jHXpzFVgIpLGCJog9RUQw
 
