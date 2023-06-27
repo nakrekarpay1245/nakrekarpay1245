@@ -4,10 +4,10 @@ Bu GitHub deposunda, 4 yıldır oyun geliştirme alanında aktif olarak çalış
 
 ## Oyunlarım
 
-1. Board Game (oyun1/): Merge tabanlı kule savunma oyunu
-   [Görsel/ekran görüntüsü ekleme]
+1. Board Game (/BoardGame): Merge tabanlı kule savunma oyunu
+   /BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png
 
-2. Merge Fruit (oyun2/): Merge tabanlı meyve yetiştirme ve satma simülatörü
+2. Merge Fruit (/MergeGame): Merge tabanlı meyve yetiştirme ve satma simülatörü
    [Görsel/ekran görüntüsü ekleme]
 
 Daha fazla oyun projesi ve çalışma hakkında bilgi almak için lütfen https://erkanyaprak.w3spaces.com/ ziyaret edin.
