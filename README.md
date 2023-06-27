@@ -5,7 +5,7 @@ Bu GitHub deposunda, 4 yıldır oyun geliştirme alanında aktif olarak çalış
 ## Oyunlarım
 
 1. Board Game (/BoardGame): Merge tabanlı kule savunma oyunu
-![Oyun Ekran Görüntüsü](BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)
+![Oyun Ekran Görüntüsü](/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)
 
 2. Merge Fruit (/MergeGame): Merge tabanlı meyve yetiştirme ve satma simülatörü
    [Görsel/ekran görüntüsü ekleme]
