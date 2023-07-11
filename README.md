@@ -10,21 +10,26 @@ This GitHub repository showcases the game projects of Erkan Yaprak, who has been
 
 A minimalist-style clone of the game "Grindstone" released on Apple Arcade.
 
-- Repository: [Monster Slash](https://github.com/nakrekarpay1245/MonsterSlash)
-- Screenshots: ![Screenshot 1](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_1.png), ![Screenshot 2](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_3.png)
+#### Repository:
+- [Monster Slash](https://github.com/nakrekarpay1245/MonsterSlash)
+#### Screenshots:
+- ![Screenshot 1](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_1.png), ![Screenshot 2](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_3.png)
 
 ### 2. Board Game (/BoardGame)
 
 A merge-based tower defense game.
 
-- Repository: [Board Game](https://github.com/nakrekarpay1245/BoardGame)
-- Screenshots: ![Screenshot 1](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png), ![Screenshot 2](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleInGame_1.png)
+#### Repository: 
+- [Board Game](https://github.com/nakrekarpay1245/BoardGame)
+#### Screenshots:
+- ![Screenshot 1](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png), ![Screenshot 2](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleInGame_1.png)
 
 ### 3. Merge Fruit (/MergeGame)
 
 A merge-based fruit growing and selling simulator.
 
-- Repository: [Merge Fruit](https://github.com/nakrekarpay1245/MergeGame)
+#### Repository: 
+- [Merge Fruit](https://github.com/nakrekarpay1245/MergeGame)
 
 To learn more about other game projects and works, please visit [Erkan Yaprak's website](https://erkanyaprak.w3spaces.com/).
 
