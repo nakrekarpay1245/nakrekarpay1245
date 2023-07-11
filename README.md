@@ -6,7 +6,7 @@ Bu GitHub deposunda, 4 yıldır oyun geliştirme alanında kendi başına geliş
 
 ## Oyunlarım
 
-#### 1. Monster Slash (/GrindstoneClone): Grindstone ismi ile Apple Arcade' e çıkış yapmış oyunun minimalist tarzlı klonu
+### 1. Monster Slash (/GrindstoneClone): Grindstone ismi ile Apple Arcade' e çıkış yapmış oyunun minimalist tarzlı klonu
 https://github.com/nakrekarpay1245/MonsterSlash
 
 ![Oyun İçi Ekran Görüntüsü - 1](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_1.png)
@@ -14,7 +14,7 @@ https://github.com/nakrekarpay1245/MonsterSlash
 
 ---
 
-#### 2. Board Game (/BoardGame): Merge tabanlı kule savunma oyunu
+### 2. Board Game (/BoardGame): Merge tabanlı kule savunma oyunu
 https://github.com/nakrekarpay1245/BoardGame
 
 ![Oyun Ekran Görüntüsü](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)
@@ -22,7 +22,7 @@ https://github.com/nakrekarpay1245/BoardGame
 
 ---
 
-#### 3. Merge Fruit (/MergeGame): Merge tabanlı meyve yetiştirme ve satma simülatörü
+### 3. Merge Fruit (/MergeGame): Merge tabanlı meyve yetiştirme ve satma simülatörü
 https://github.com/nakrekarpay1245/MergeGame
 <!--![Battle Menu Ekran Görüntüsü](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)-->
 
