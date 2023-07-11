@@ -7,7 +7,9 @@ Bu GitHub deposunda, 4 yıldır oyun geliştirme alanında aktif olarak çalış
 #### 2. Monster Slash (/GrindstoneClone): Grindstone ismi ile Apple Arcade' e çıkış yapmış oyunun minimalist tarzlı klonu
 https://github.com/nakrekarpay1245/MonsterSlash
 
-![Oyun İçi Ekran Görüntüsü](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Images/ScreenShoots/SS_1.png)
+![Oyun İçi Ekran Görüntüsü - 1](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_1.png)
+![Oyun İçi Ekran Görüntüsü - 2](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_2.png)
+![Oyun İçi Ekran Görüntüsü - 3](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_3.png)
 
 #### 2. Board Game (/BoardGame): Merge tabanlı kule savunma oyunu
 https://github.com/nakrekarpay1245/BoardGame
