@@ -1,6 +1,6 @@
 # Hoş Geldiniz!
 
-Bu GitHub deposunda, 4 yıldır oyun geliştirme alanında aktif olarak çalışan Erkan Yaprak'ın oyun projelerini bulabilirsiniz. Burada, farklı türlerde ve temalarda geliştirdiğim oyunlara ait kaynak kodlarına, dokümantasyonlara ve görsellere ulaşabilirsiniz.
+Bu GitHub deposunda, 4 yıldır oyun geliştirme alanında kendi başına geliştirmeler yapan bunun yanında 1 yıl kadar da sektör terübesi olan Erkan Yaprak'ın oyun projelerini bulabilirsiniz. Burada, farklı türlerde ve temalarda geliştirdiğim oyunlara ait kaynak kodlarına, dokümantasyonlara ve görsellere ulaşabilirsiniz.
 
 ----
 
