@@ -14,7 +14,8 @@ https://github.com/nakrekarpay1245/MonsterSlash
 #### 2. Board Game (/BoardGame): Merge tabanlı kule savunma oyunu
 https://github.com/nakrekarpay1245/BoardGame
 
-![Battle Menu Ekran Görüntüsü](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)
+![Oyun Ekran Görüntüsü](BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)
+![Oyun Ekran Görüntüsü](BoardGame/Assets/Images/ScreenShoots/BattleInGame_1.png)
 
 #### 3. Merge Fruit (/MergeGame): Merge tabanlı meyve yetiştirme ve satma simülatörü
 https://github.com/nakrekarpay1245/MergeGame
