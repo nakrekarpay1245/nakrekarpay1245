@@ -1,58 +1,104 @@
-# Welcome!
+# Erkan Yaprak - Game Developer & Designer
 
-## Description
+## Hakkımda
+Merhaba! Ben **Erkan Yaprak**, dört yıldan uzun süredir oyun geliştirme alanında profesyonel olarak çalışıyorum. Bilgisayar Mühendisliği eğitimi alırken, birinci sınıfta oyun geliştirmeye başladım ve kariyerime üçüncü sınıfta adım attım. O zamandan beri başta Unity olmak üzere, Unreal Engine ve Godot gibi farklı oyun motorlarında projeler geliştirdim. Kariyerimin büyük bir kısmı Unity ile geçti ve hem oyun tasarımı hem de oyun geliştirme alanlarında profesyonel deneyim sahibiyim.
 
-This GitHub repository showcases the game projects of Erkan Yaprak, who has been independently developing games for 4 years and has 1 year of industry experience. Here, you can explore the source code, documentation, and visuals of games developed in various genres and themes.
+Oyun tasarımında **GNARLY Games**'te çalıştım ve burada **Agent Hunt** (50+ milyon indirme) ve **Frontline Heroes** (25+ milyon indirme) gibi hit projelerde yer aldım. Ayrıca **Suitech Software**, **8Games** ve **Pasatempos Games**'te oyun geliştirici olarak projeler geliştirdim. Yeteneklerim arasında Unity C# programlama, oyun tasarımı ve oyun motoru için araçlar geliştirmek bulunuyor.
 
-## Games
+## Projects
 
-### 1. Board Game (/BoardGame)
+### [Idle Arcade Template](https://github.com/nakrekarpay1245/IdleArcadeTemplate)
 
-A merge-based tower defense game.
+#### Project Overview:
+The **Idle Arcade Template** is designed for creating top-down arcade games on mobile platforms, providing a robust framework for character movement, interaction, and combat.
 
-#### Repository: 
-- [Board Game](https://github.com/nakrekarpay1245/BoardGame)
-#### Screenshots:
-- ![Screenshot 1](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleInGame_1.png)
-- ![Screenshot 2](https://github.com/nakrekarpay1245/BoardGame/blob/main/BoardGame/Assets/Images/ScreenShoots/BattleMenu.png)
+#### Key Features:
+- **TopDownCharacter Components**: Includes controllers for movement, item collection, interaction, damage, and attack.
+- **Interfaces and Abstract Classes**: Implements `IDamager`, `ICollector`, `IInteractable`, ensuring flexibility and extensibility.
+- **Custom Editor Tools**: Quickly create new characters using easy-to-use custom tools.
 
-### 2. Monster Slash (/GrindstoneClone)
+#### Installation:
+1. Clone or download the repository.
+2. Import the `.unitypackage` into your Unity project.
 
-A minimalist-style clone of the game "Grindstone" released on Apple Arcade.
+#### Usage:
+- **Tutorial**: Create characters using custom editor tools, setting up movement, interactions, and animations.
 
-#### Repository:
-- [Monster Slash](https://github.com/nakrekarpay1245/MonsterSlash)
-#### Screenshots:
-- ![Screenshot 1](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_1.png)
-- ![Screenshot 2](https://github.com/nakrekarpay1245/MonsterSlash/blob/main/MonsterSlash/Assets/Screenshots/SS_3.png)
+#### Future Development:
+- Advanced gameplay scenarios, new weapons, AI enhancements, and more.
 
-### 3. Merge Fruit (/MergeGame)
+---
 
-A merge-based fruit growing and selling simulator.
+### [Erkan Yaprak Unity Helpers](https://github.com/nakrekarpay1245/UnityHelpers)
 
-#### Repository: 
-- [Merge Fruit](https://github.com/nakrekarpay1245/MergeGame)
-#### Screenshots:
-- ![Screenshot 1](https://github.com/nakrekarpay1245/MergeGame/blob/main/MergeGame/Assets/Screenshots/SS_1.png)
-- ![Screenshot 2](https://github.com/nakrekarpay1245/MergeGame/blob/main/MergeGame/Assets/Screenshots/SS_3.png)
+#### Overview:
+The **Unity Helpers** package provides utility scripts to streamline game development in Unity, offering flexible tools for common game design tasks.
 
-To learn more about other game projects and works, please visit [Erkan Yaprak's website](https://erkanyaprak.w3spaces.com/).
+#### Key Scripts:
+- **MonoSingleton**: Ensures single instances of key objects.
+- **GlobalBinder**: Efficiently binds objects and references across scenes.
+- **AudioManager**: Simplifies audio management for dynamic sound design.
 
-## Getting Started
+#### Installation:
+- Available via Unity Package Manager and `.unitypackage` import.
 
-To get started with a specific game project, follow the steps below:
+#### Core Scripts Overview:
+- **MonoSingleton**: Manages singletons effortlessly.
+- **GlobalBinder**: Simplifies binding references between objects and systems.
+- **AudioManager**: Streamlines audio handling across your project.
 
-1. Choose the game project you are interested in.
-2. Navigate to the corresponding folder.
-3. Read the README.md file for instructions on how to run the project and access the source code.
+---
 
-## Contact and More Information
+### [Match Station](https://github.com/nakrekarpay1245/MatchStation)
 
-- LinkedIn: [Erkan Yaprak](https://www.linkedin.com/in/erkanyaprak/)
-- itch.io: [Erkan Yaprak](https://erkanyaprak.itch.io/)
-- Personal Website: [Erkan Yaprak](https://erkanyaprak.w3spaces.com/index.html)
-- YouTube: [Erkan Yaprak](https://www.youtube.com/channel/UC4jHXpzFVgIpLGCJog9RUQw)
+#### Overview:
+**Match Station** is a Match-3 puzzle game, where players collect and match items to complete various levels and challenges.
 
-Feel free to reach out to me if you have any questions, feedback, or collaboration offers regarding my projects. I am excited to share and develop games created with passion!
+#### Gameplay:
+- **Item-Matching Mechanics**: Engage in classic match-3 gameplay, matching items to progress through levels.
+- **Level Objectives**: Strategically complete tasks and overcome specific challenges.
 
-Thank you, and happy exploring!
+#### Installation & Setup:
+1. Clone the repository or download the project to get started with development or testing.
+
+#### Future Development:
+- Enhancements to progression systems, more challenging levels, and new mechanics planned for future updates.
+
+## Profesyonel Deneyim
+
+- **GNARLY Games, Istanbul (2023 - 2024)**  
+  *Oyun Tasarımcısı*  
+  **Projeler:** *Agent Hunt (50+ milyon indirme)*, *Frontline Heroes (25+ milyon indirme)*  
+  Hit projelerde oyun tasarımı, mekanik geliştirme ve kullanıcı deneyimi üzerine çalıştım.
+  ### [Agent Hunt](https://play.google.com/store/apps/details?id=com.gnarlygamestudio.agenthunt&hl=en_US)
+  ### [Frontline Heroes](https://play.google.com/store/apps/details?id=com.GnarlyGameStudio.FrontlineHeroes&hl=en_US)
+  
+- **Suitech Software, Istanbul (2022)**  
+  *Oyun Geliştirici*  
+  Unity tabanlı projelerde oyun mekanikleri, kullanıcı arayüzü ve oyun optimizasyonları üzerinde çalıştım.
+
+- **8Games, Istanbul (2021)**  
+  *Oyun Geliştirici*  
+  Çeşitli mobil oyun projelerinde oyun geliştirme süreçlerinde görev aldım.
+
+- **Pasatempos Games, Istanbul (2021)**  
+  *Oyun Geliştirici*  
+  Çeşitli oyun projeleri üzerinde çalışarak Unity C# programlamada uzmanlaştım.
+
+## Teknik Beceriler
+
+- **Oyun Motorları:** Unity (ana uzmanlık), Unreal Engine, Godot
+- **Programlama Dilleri:** C#
+- **Oyun Geliştirme:** Oyun mekaniği geliştirme, AI tasarımı, kullanıcı arayüzü, animasyon sistemleri
+- **Editor Araçları:** Unity Editor Scripting, Custom Tools Development
+- **SOLID ve OOP Prensipleri:** Yüksek performanslı ve okunabilir kod yazımı
+
+## Hedeflerim
+En büyük hedefim kendi oyun motorumu yazmak ve oyun dünyasını sosyalleştirecek bir platform oluşturmak. Ülkemizi ve kültürümüzü global oyun arenasında tanıtmak, büyük başarılar kazanmak istiyorum.
+
+## İletişim ve Projeler
+
+- **GitHub:** [nakrekarpay1245](https://github.com/nakrekarpay1245)
+- **Kişisel Web Sitesi:** [erkanyaprak.w3spaces.com](https://erkanyaprak.w3spaces.com)
+- **LinkedIn:** [Erkan Yaprak](https://www.linkedin.com/in/erkan-yaprak)
+- **E-posta:** [rknyprk79@gmail.com](mailto:rknyprk79@gmail.com)
