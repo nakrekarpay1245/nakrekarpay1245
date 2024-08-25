@@ -7,7 +7,7 @@ Oyun tasarımında **GNARLY Games**'te çalıştım ve burada **Agent Hunt** (50
 
 ## Projects
 
-### [Idle Arcade Template](https://github.com/nakrekarpay1245/IdleArcadeTemplate)
+### [Idle Arcade Template](https://github.com/nakrekarpay1245/ErkanYaprak_IdleArcadeTemplate)
 
 #### Project Overview:
 The **Idle Arcade Template** is designed for creating top-down arcade games on mobile platforms, providing a robust framework for character movement, interaction, and combat.
@@ -29,7 +29,7 @@ The **Idle Arcade Template** is designed for creating top-down arcade games on m
 
 ---
 
-### [Erkan Yaprak Unity Helpers](https://github.com/nakrekarpay1245/UnityHelpers)
+### [Erkan Yaprak Unity Helpers](https://github.com/nakrekarpay1245/ErkanYaprak_UnityHelpers)
 
 #### Overview:
 The **Unity Helpers** package provides utility scripts to streamline game development in Unity, offering flexible tools for common game design tasks.
