@@ -7,6 +7,44 @@ In game design, I worked at **GNARLY Games**, where I contributed to hit project
 
 ## Projects
 
+### [Parking Perfect! 🚗🎮](https://github.com/nakrekarpay1245/ParkingGame)
+#### Project Overview:
+
+**Parking Perfect!** is an arcade-style car parking game designed for WebGL and Android platforms, built using **Unity Engine**. The game focuses on providing a fun and engaging car parking experience where players must navigate their vehicles into parking spaces without hitting any traffic cones. The game combines intuitive controls, smooth animations, and a dynamic economy system. 
+
+Built with **SOLID** principles and Object-Oriented Programming (**OOP**) methodologies, the codebase emphasizes performance, clarity, and maintainability. Features such as **DOTween** for smooth transitions and **Scriptable Objects** for modular game data are also utilized to enhance gameplay and design.
+
+#### Key Features:
+- **Arcade-Style Car Controls**: Easy-to-learn, difficult-to-master controls using `W`, `A`, `S`, `D` keys for movement and `Space` for handbrake on WebGL, or on-screen buttons for mobile devices.
+- **Dynamic Camera System**: An isometric camera follows the player's car smoothly, adjusting to the gameplay.
+- **Damage and Health System**: Colliding with traffic cones reduces car health and lowers rewards. Avoiding all obstacles grants a perfect score and full rewards.
+- **Stars and Economy**: Based on parking performance, players earn stars and in-game currency which can be used to unlock new cars.
+- **Two Playable Cars**: Players can switch between two different vehicles, each offering a unique driving experience.
+- **Ten Test Levels**: The game offers ten levels that challenge the player’s driving and parking skills.
+
+#### Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/ParkingPerfect.git
+2. Open the project in Unity (Version 2022.3 or later recommended).
+3. Switch the build target to either WebGL or Android.
+4. Play in the editor or build and deploy the game to your platform of choice.
+   
+#### Usage:
+- **Tutorial**: Create characters using custom editor tools, setting up movement, interactions, and animations.
+- **WebGL**: Use W, A, S, D for movement and Space for the handbrake to control the car.
+- **Android**: Use on-screen directional buttons and handbrake button to navigate.
+Park the car in the designated area while avoiding obstacles (traffic cones). Perfect parking without any damage will grant maximum stars and rewards.
+Visit the car gallery to change vehicles or purchase new ones using in-game currency.
+
+#### Future Development:
+- **More Levels**: Additional levels with varied complexity and unique layouts will be added to offer players a broader range of challenges.
+- **More Cars**: Introducing more vehicles with diverse handling and performance characteristics.
+- **Visual Enhancements**: Improve the scene's graphics and add more environmental elements to make the game more immersive and visually appealing.
+- **Expanded Gameplay Mechanics**: Potential new gameplay features such as timed parking challenges, advanced physics-based puzzles, or even multiplayer modes.
+
+---
+
 ### [Idle Arcade Template](https://github.com/nakrekarpay1245/ErkanYaprak_IdleArcadeTemplate)
 
 #### Project Overview:
