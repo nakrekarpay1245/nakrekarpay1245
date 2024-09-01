@@ -10,6 +10,8 @@ In game design, I worked at **GNARLY Games**, where I contributed to hit project
 ### [Parking Perfect! 🚗🎮](https://github.com/nakrekarpay1245/ParkingGame)
 #### Project Overview:
 
+[![Parking Perfect! Gameplay](https://img.youtube.com/vi/WfJcOrbDuKw/0.jpg)](https://www.youtube.com/watch?v=WfJcOrbDuKw)
+
 **Parking Perfect!** is an arcade-style car parking game designed for WebGL and Android platforms, built using **Unity Engine**. The game focuses on providing a fun and engaging car parking experience where players must navigate their vehicles into parking spaces without hitting any traffic cones. The game combines intuitive controls, smooth animations, and a dynamic economy system. 
 
 Built with **SOLID** principles and Object-Oriented Programming (**OOP**) methodologies, the codebase emphasizes performance, clarity, and maintainability. Features such as **DOTween** for smooth transitions and **Scriptable Objects** for modular game data are also utilized to enhance gameplay and design.
@@ -46,6 +48,8 @@ Visit the car gallery to change vehicles or purchase new ones using in-game curr
 ---
 
 ### [Idle Arcade Template](https://github.com/nakrekarpay1245/ErkanYaprak_IdleArcadeTemplate)
+
+[![TopDownCharacter Presentation](https://img.youtube.com/vi/0Nh8_X-yF-A/0.jpg)](https://www.youtube.com/watch?v=0Nh8_X-yF-A)
 
 #### Project Overview:
 The **Idle Arcade Template** is designed for creating top-down arcade games on mobile platforms, providing a robust framework for character movement, interaction, and combat.
@@ -88,6 +92,8 @@ The **Unity Helpers** package provides utility scripts to streamline game develo
 ---
 
 ### [Match Station](https://github.com/nakrekarpay1245/MatchStation)
+
+[![Gameplay Video](https://img.youtube.com/vi/-yNsxpZrWdg/0.jpg)](https://youtu.be/-yNsxpZrWdg)
 
 #### Overview:
 **Match Station** is a Match-3 puzzle game, where players collect and match items to complete various levels and challenges.
