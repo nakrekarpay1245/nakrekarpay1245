@@ -144,5 +144,5 @@ My biggest goal is to write my own game engine and create a platform that will s
 
 - **GitHub:** [nakrekarpay1245](https://github.com/nakrekarpay1245)
 - **Personal Website:** [erkanyaprak.w3spaces.com](https://erkanyaprak.w3spaces.com)
-- **LinkedIn:** [Erkan Yaprak](https://www.linkedin.com/in/erkan-yaprak)
+- **LinkedIn:** [Erkan Yaprak](www.linkedin.com/in/erkanyaprak)
 - **Email:** [rknyprk79@gmail.com](mailto:rknyprk79@gmail.com)
