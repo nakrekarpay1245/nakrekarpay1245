@@ -3,7 +3,7 @@
 ## About Me
 Hello! I'm **Erkan Yaprak**, a professional game developer with over four years of experience. I began game development during my first year in Computer Engineering and entered the industry during my third year. Since then, I’ve worked on various projects using different game engines like Unity, Unreal Engine, and Godot. Most of my career has been spent with Unity, and I have professional experience in both game design and development.
 
-In game design, I worked at **GNARLY Games**, where I contributed to hit projects such as **Agent Hunt** (50+ million downloads) and **Frontline Heroes** (25+ million downloads). I have also developed games at **Suitech Software**, **8Games**, and **Pasatempos Games**. My skills include Unity C# programming, game design, and developing tools for game engines.
+In game design, I worked at **GNARLY Games**, where I contributed to hit projects such as **[Agent Hunt](https://play.google.com/store/apps/details?id=com.gnarlygamestudio.agenthunt&hl=en_US)** (50+ million downloads) and **[Frontline Heroes](https://play.google.com/store/apps/details?id=com.GnarlyGameStudio.FrontlineHeroes&hl=en_US)** (25+ million downloads). I have also developed games at **Suitech Software**, **8Games**, and **Pasatempos Games**. My skills include Unity C# programming, game design, and developing tools for game engines.
 
 ## Projects
 
