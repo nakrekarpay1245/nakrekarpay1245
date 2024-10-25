@@ -138,6 +138,32 @@ The **Unity Helpers** package provides utility scripts to streamline game develo
 
 #### Future Development:
 - Enhancements to progression systems, more challenging levels, and new mechanics planned for future updates.
+  
+---
+
+### [ErkanYaprak_Pathfinding_System](https://github.com/nakrekarpay1245/ErkanYaprak_Pathfinding/)
+
+A customizable pathfinding package for Unity, built with C# and designed with an optimized A* algorithm. This package offers nearest-node fallback if a path is unavailable, integrates with Unity’s Gizmos for visual debugging, and leverages the SOLID and OOP principles for high performance and readability.
+
+## 📦 Package Overview
+
+| Feature          | Description                                                                                   |
+|------------------|-----------------------------------------------------------------------------------------------|
+| **Node**         | Serializable C# class representing a single grid node.                                        |
+| **Node Grid**    | Grid structure for pathfinding, supporting customizable walkable layers and Gizmos visualization. |
+| **Navigator**    | Navigation class using `NavigateTo` for movement and rotation from the start to target position. |
+| **AbstractNavigatorBase** | Base class for all navigators, enabling customization.                           |
+| **MonoSingleton**| A singleton pattern implementation from the `ErkanYaprak_UnityHelpers` package.               |
+| **Pathfinding**  | Pathfinding calculations via `FindPath(Node startNode, Node targetNode)`, visualizing path and nodes using Gizmos. |
+| **NavigationTest** | Test tool for clicking navigation points. (Remove from the package for production.)       |
+
+## 🌌 Package Features
+
+- **Optimized A* Pathfinding** with fallback to the nearest node when paths are blocked
+- **Gizmos Visual Debugging** for grid, path, open, and closed nodes
+- **Detailed Documentation** using `Header`, `Tooltip`, `Range`, `SerializeField`, and `HideInInspector` attributes for clarity
+- **OnDrawGizmos** and **OnDrawGizmosSelected** for flexible debugging
+- **Fully Unity and C# Native** without external dependencies
 
 ## Professional Experience
 
